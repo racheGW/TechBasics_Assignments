@@ -1,5 +1,4 @@
 print("Hello wordle")
-print(cat_art)
 
 def draw_cat():
     cat = r"""
@@ -11,6 +10,7 @@ def draw_cat():
 
 cat_art = draw_cat()
 print(cat_art)
+
 
 
   
