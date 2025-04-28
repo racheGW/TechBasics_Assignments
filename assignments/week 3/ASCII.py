@@ -1,5 +1,5 @@
-#Assignment 3 Rachel Weller
-# some parts of this 
+# Assignment 3 Rachel Weller 
+# Some parts of this game were created with the assistance of ChatGPT by OpenAI
 import random
 import time
 
