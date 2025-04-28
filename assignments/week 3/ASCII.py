@@ -1,3 +1,5 @@
+#Assignment 3 Rachel Weller
+# some parts of this 
 import random
 import time
 
