@@ -1,4 +1,4 @@
-#Instance 1: Cat moving horizontaly: 
+#Instance 1: Cat moving horizontaly, blue backround: 
 import pygame
 
 
@@ -42,12 +42,12 @@ while flag:
 pygame.quit()
 exit(0)
 
-#Instance 2 Dog moving horizontaly:
+#Instance 2 Dog moving horizontaly, pink backround:
 import pygame
 
 SCREEN_WIDTH = 1200
 SCREEN_HEIGHT = 300
-BACKGROUND_COLOR = (255,255,255)
+BACKGROUND_COLOR = (255, 192, 203)
 
 pygame.init()
 
