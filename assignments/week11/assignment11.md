@@ -1,4 +1,3 @@
-
 ### Assignment 11 Read Some Code
 (Based on Exercise 23 in Learn Python the Hard Way)
 
