@@ -2,7 +2,7 @@
 
 1. Where did you find the code and why did you choose it? (Provide the link)
 
-I looked on git hub for a python code that involved organisation. After looking through some of the examples I choose (https://github.com/rohithasrk/GSoC-Organisation-Scraper.git). 
+I looked on git hub for a python code that involved organisation. After looking through some of the examples I choose: (https://github.com/rohithasrk/GSoC-Organisation-Scraper.git). Specifically the scrape.py file.
 
 
 ---
