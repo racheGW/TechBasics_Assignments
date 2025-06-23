@@ -33,9 +33,14 @@ unknown structure:
 3. Function analysis: pick one function and analyze it in detail:
 
 - What does this function do?
+
 This function checks how many times an organization appeared in past GSOC programs
   
 - What are the inputs and outputs?
+
+input: org_name (string like "apache software foundation")
+
+output: an integer shows how many .txt files contain this name (1 per year)
 
 - How does it work (step by step)?
 
