@@ -23,7 +23,7 @@ General Structure:
     - calls scrape() if you run the script directly.
  
 
-unknown: 
+unknown structure: 
 - signal handler
     - exit with ctrl+c 
 - helper function: no_of_times 
@@ -33,14 +33,26 @@ unknown:
 3. Function analysis: pick one function and analyze it in detail:
 
 - What does this function do?
-
-- 
+This function checks how many times an organization appeared in past GSOC programs
+  
 - What are the inputs and outputs?
+
 - How does it work (step by step)?
 
+After doing some research I analyses how the code works step by step. 
+
+1. starts with a count of 0
+2. then it loops through each year 
+3. then for each year: 
+    - then opens a file like resources/ 2009.txt and reads the list of organisation names (line by line) 
+    - check if the chosen organisation is in the list of that year 
+    - then if yes it increases the count 
+4. if anything goes wrong (like a missing file), it prints the error.
+5. then it return the total count found 
 ---
 
 1. Takeaways: are there anything you can learn from the code? (How to structure your code, a clean solution for some function you might also need...)
+
 
 
 1. What parts of the code were confusing or difficult at the beginning to understand?
