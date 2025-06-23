@@ -70,5 +70,7 @@ After doing some research I analyses how the code works step by step.
 - class names 
 
 - Were you able to understand what it is doing after your own research?
+
 After I did some research I was able to understand some of my issues with the code. However I think the code was still to advanced for my skill level to properly analyze. 
+
 ---
