@@ -56,13 +56,19 @@ After doing some research I analyses how the code works step by step.
 5. then it return the total count found 
 ---
 
-1. Takeaways: are there anything you can learn from the code? (How to structure your code, a clean solution for some function you might also need...)
+5.  Takeaways: are there anything you can learn from the code? (How to structure your code, a clean solution for some function you might also need...)
+
+- exit with ctrl+c with signal.signal() 
+- storing past data in .txt files 
 
 
+6. What parts of the code were confusing or difficult at the beginning to understand?
 
-1. What parts of the code were confusing or difficult at the beginning to understand?
+- use of signal_handler(), signal.signal() 
+- use of proxies 
+- loop for reading the .txt file
+- class names 
+
 - Were you able to understand what it is doing after your own research?
-
+After I did some research I was able to understand some of my issues with the code. However I think the code was still to advanced for my skill level to properly analyze. 
 ---
-
-Extra notes
