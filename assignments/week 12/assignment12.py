@@ -1,4 +1,4 @@
-#Assignment 12 R. Weller
+#Assignment 12 Rachel Weller
 import pygame
 
 pygame.init()
